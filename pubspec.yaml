@@ -1,7 +1,7 @@
 name: glowbugshooter
 description: "Glow Bug Shooter - Shoot light pulses to guide fireflies"
 publish_to: 'none'
-version: 1.0.0+3
+version: 1.0.0+4
 environment:
   sdk: ^3.13.5
 
